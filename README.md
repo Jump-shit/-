@@ -85,3 +85,14 @@
   </script>
 </body>
 </html>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>下一页</title>
+</head>
+<body style="text-align:center; margin-top: 100px;">
+  <h1>你点进来了，说明你也爱我 ❤️</h1>
+</body>
+</html>
